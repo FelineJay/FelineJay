@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FelineJay
+- 👋 Hi, I’m @JayPeura
 - 👀 I’m interested in programming, video games and cooking.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on ...
